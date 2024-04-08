@@ -1,2 +1,2 @@
 # flutter-toonflix
-플러터 웹툰 앱
+플러터 웹툰앱
